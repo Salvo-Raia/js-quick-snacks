@@ -13,8 +13,6 @@
 
 ## 🎯 Assignment
 
-### 🍿 JavaScript Quick Snacks
-
 Complete the following exercises to practice JavaScript calculations, loops, and user input.
 
 ### 1. Cubes of the First N Numbers
