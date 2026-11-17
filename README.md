@@ -1,6 +1,6 @@
 ![Static Badge](https://img.shields.io/badge/Boolean_Tech_Academy-1565C0?style=for-the-badge)
 
-# 🎓 Exercise 21/50 - JavaScript Quick Snacks
+# 🎓 Exercise 21/50: JavaScript Quick Snacks
 
 JavaScript exercises involving numerical sequences, mathematical operations, loops, and user input.
 
