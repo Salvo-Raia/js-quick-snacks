@@ -1,6 +1,8 @@
-![Boolean Tech Academy](https://img.shields.io/badge/Boolean_Tech_Academy-001632?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Boolean_Tech_Academy-1565C0?style=for-the-badge)
 
 # 🎓 Exercise 21/50 - JavaScript Quick Snacks
+
+JavaScript exercises involving numerical sequences, mathematical operations, loops, and user input.
 
 ## 📌 Project Overview
 
@@ -15,19 +17,19 @@
 
 Complete the following exercises to practice JavaScript calculations, loops, and user input.
 
-### 1. Cubes of the First N Numbers
+#### 1. Cubes of the First N Numbers
 
 Ask the user to enter a number `N`, then print the cubes of the first `N` natural numbers.
 
-### 2. Powers of 2
+#### 2. Powers of 2
 
 Print the powers of 2 up to 1000.
 
-### 3. Sum of Digits
+#### 3. Sum of Digits
 
 Ask the user to enter a four-digit number and calculate the sum of all the digits that make up that number.
 
-### 4. Sum and Average of the First 10 Numbers
+#### 4. Sum and Average of the First 10 Numbers
 
 Calculate and print the sum and the average of the first 10 numbers.
 
@@ -46,4 +48,4 @@ Calculate and print the sum and the average of the first 10 numbers.
 
 ## ©️ Credits
 
-Exercise assigned by **Boolean Tech Academy** as part of the Web Development course - Class 152 - Year 2025-2026
+Exercise assigned by **Boolean Tech Academy** as part of the Web Development course (Class 152, A.Y. 2025–2026).
