@@ -34,7 +34,7 @@ Calculate and print the sum and the average of the first 10 numbers.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-## What I Learned
+## What I learned
 
 - Using loops to generate numerical sequences.
 - Performing exponentiation and mathematical calculations.
