@@ -8,7 +8,7 @@ JavaScript exercises involving numerical sequences, mathematical operations, loo
 
 | Repository | Project | Category | Main Focus | Exercise |
 |:--|:--|:--|:--|:--|
-| js-quick-snacks | JavaScript Quick Snacks | Exercise | JavaScript Loops & Mathematical Operations | 21/50 |
+| js-quick-snacks | JavaScript Quick Snacks | Exercise | JavaScript loops & Mathematical operations | 21/50 |
 
 ## Assignment
 
