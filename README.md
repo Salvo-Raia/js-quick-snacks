@@ -8,13 +8,13 @@ JavaScript exercises involving numerical sequences, mathematical operations, loo
 
 | Repository | Project | Category | Main Focus | Exercise |
 |:--|:--|:--|:--|:--|
-| js-quick-snacks | JavaScript Quick Snacks | Exercise | JavaScript loops & Mathematical operations | 21/50 |
+| js-quick-snacks | JavaScript Quick Snacks | Exercise | JavaScript, for loops & Mathematical operations | 21/50 |
 
 ## Assignment
 
 Complete the following exercises to practice JavaScript calculations, loops, and user input.
 
-#### 1. Cubes of the First N Numbers
+#### 1. Cubes of the first N numbers
 
 Ask the user to enter a number `N`, then print the cubes of the first `N` natural numbers.
 
@@ -22,11 +22,11 @@ Ask the user to enter a number `N`, then print the cubes of the first `N` natura
 
 Print the powers of 2 up to 1000.
 
-#### 3. Sum of Digits
+#### 3. Sum of digits
 
 Ask the user to enter a four-digit number and calculate the sum of all the digits that make up that number.
 
-#### 4. Sum and Average of the First 10 Numbers
+#### 4. Sum and average of the first 10 numbers
 
 Calculate and print the sum and the average of the first 10 numbers.
 
