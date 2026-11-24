@@ -26,7 +26,7 @@ if (user4DigitNumber.length == 4) {
   somma4 += parseInt(user4DigitNumber[1])
   somma4 += parseInt(user4DigitNumber[2])
   somma4 += parseInt(user4DigitNumber[3])
-  console.log("Le 4 cifre che hai digitato, sommate insieme, equivalgono a =", somma4);
+  console.log("Le 4 cifre che hai digitato, sommate insieme, equivalgono a ", somma4);
 }
 
 else {
