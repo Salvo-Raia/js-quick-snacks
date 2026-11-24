@@ -44,7 +44,7 @@ Ask the user to enter a four-digit number and calculate the sum of all the digit
 **Example output for the input 2099:**
 
 ```text
-Le 4 cifre che hai digitato, sommate insieme, equivalgono a = 20
+Le 4 cifre che hai digitato, sommate insieme, equivalgono a 20
 ```
 
 #### Snack 4: Sum and average of the first 10 numbers
