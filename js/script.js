@@ -2,11 +2,11 @@ console.log("Js - Quick Snakcs");
 
 // Stampa il cubo dei primi N numeri, dove N è un numero indicato dall’utente.
 console.log(`Quanti cubi vuoi? - O "Come ti calcolo la potenza di 3 tutte le volte che vuoi"`);
-userNumber = prompt("Dimmi fin a quale numero vuoi che calcoli il cubo", "2")
-for (let i = 0; i <= userNumber.length; i++) {
-  console.log("Perfetto! Calcolo i cubi fino a", parseInt(userNumber));
-  console.log("Il cubo di", [i], "è uguale a = ", [i] ** 3);
-} 
+const userNumber = Number(prompt("Dimmi fino a quale numero vuoi che calcoli il cubo", "2"));
+
+for (let i = 1; i <= userNumber; i++) {
+  console.log(`Il cubo di ${i} è uguale a ${i ** 3}`);
+}
 
 // Stampa le potenze di 2 fino a 1000.
 console.log("Ci sto prendendo gusto, lascia che ti mostri le potenze di 2 fino al numero 1000");
