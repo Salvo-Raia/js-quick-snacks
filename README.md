@@ -27,7 +27,7 @@ Il cubo di 2 è uguale a 8
 
 #### Snack 2: Powers of 2
 
-Print the powers of 2 up to 1000.
+Print the powers of 2 for exponents from 1 to 1000.
 
 **Example output (first iterations):**
 
