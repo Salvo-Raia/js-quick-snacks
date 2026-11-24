@@ -18,17 +18,45 @@ Complete the following exercises to practice JavaScript calculations, loops, and
 
 Ask the user to enter a number `N`, then print the cubes of the first `N` natural numbers.
 
+**Example output for N = 2:**
+
+```text
+Il cubo di 1 è uguale a 1
+Il cubo di 2 è uguale a 8
+```
+
 #### Snack 2: Powers of 2
 
 Print the powers of 2 up to 1000.
+
+**Example output (first iterations):**
+
+```text
+La potenza di 2 di 1 è uguale a 2
+La potenza di 2 di 2 è uguale a 4
+La potenza di 2 di 3 è uguale a 8
+```
 
 #### Snack 3: Sum of digits
 
 Ask the user to enter a four-digit number and calculate the sum of all the digits that make up that number.
 
+**Example output for the input 2099:**
+
+```text
+Le 4 cifre che hai digitato, sommate insieme, equivalgono a = 20
+```
+
 #### Snack 4: Sum and average of the first 10 numbers
 
 Calculate and print the sum and the average of the first 10 numbers.
+
+**Expected output:**
+
+```text
+Il risultato è 55
+La media invece è 5.5
+```
 
 ## Technologies
 
