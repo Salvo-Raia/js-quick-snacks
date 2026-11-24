@@ -1,4 +1,4 @@
-console.log("Js - Quick Snakcs");
+console.log("Js - Quick Snacks");
 
 // Stampa il cubo dei primi N numeri, dove N è un numero indicato dall’utente.
 console.log(`Quanti cubi vuoi? - O "Come ti calcolo la potenza di 3 tutte le volte che vuoi"`);
@@ -26,7 +26,7 @@ if (user4DigitNumber.length == 4) {
   somma4 += parseInt(user4DigitNumber[1])
   somma4 += parseInt(user4DigitNumber[2])
   somma4 += parseInt(user4DigitNumber[3])
-  console.log("Le 4 cifre che hai digitato, sommate insieme, equivalgono a ", somma4);
+  console.log("Le 4 cifre che hai digitato, sommate insieme, equivalgono a", somma4);
 }
 
 else {
@@ -36,7 +36,7 @@ else {
 }
 
 // Calcola la somma e la media dei primi 10 numeri.
-console.log("Adesso mettiamo sommiamo insieme i primi 10 numeri");
+console.log("Adesso sommiamo insieme i primi 10 numeri");
 
 let first10Numbers = 0; 
 let counter = 0;
