@@ -11,7 +11,7 @@ for (let i = 1; i <= userNumber; i++) {
 // Stampa le potenze di 2 fino a 1000.
 console.log("Ci sto prendendo gusto, lascia che ti mostri le potenze di 2 fino al numero 1000");
 for (let i = 1; i <= 1000; i++) {
-  console.log("La potenza di 2 di", [i], "è uguale a", 2 ** [i]);
+  console.log(`La potenza di 2 di ${i} è uguale a ${2 ** i}`);
 }
 
 // Chiedi un numero di 4 cifre all’utente e calcola la somma di tutte le cifre che compongono il numero.
