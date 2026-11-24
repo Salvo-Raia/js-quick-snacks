@@ -44,6 +44,6 @@ for (let i = 1; i <= 10; i++) {
   first10Numbers += i;
   counter += 1;
 }
-  console.log("Il risultato è=", first10Numbers);
+  console.log("Il risultato è", first10Numbers);
   console.log("La media invece è", first10Numbers / counter);
   
